@@ -47,7 +47,7 @@ The available modules are detailed in the following table:
 |  merge  | Form merge  |
 |  midSourcing  | Recovery of delivery information in mid-sourcing mode  |
 |  monitor  | XML Displaying of the status of server processes and scheduled tasks, by instance.  |
-|  mta  | Main Agent transfer message  |
+|  mta  | Mail Transfer Agent message  |
 |  package  | Importing or exporting entity package files  |
 |  pdump  | Displaying server process statuses  |
 |  prepareda  | Preparing a delivery action  |
